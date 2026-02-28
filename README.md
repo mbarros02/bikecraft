@@ -1,51 +1,47 @@
-🚲 Bikecraft
+# 🚲 Bikecraft
 
-Projeto desenvolvido como conclusão do curso de HTML e CSS para Iniciantes, com o objetivo de praticar e consolidar conhecimentos em HTML, CSS e JavaScript aplicados ao desenvolvimento de interfaces web modernas.
+Projeto desenvolvido como conclusão do curso de **HTML e CSS para Iniciantes**.
 
-📌 Sobre o Projeto
+O **Bikecraft** é um site fictício de venda de bicicletas criado com foco total no desenvolvimento **Front-End**, aplicando boas práticas de estruturação, estilização e interatividade.
 
-O Bikecraft é um site fictício de venda de bicicletas, criado com foco total no desenvolvimento front-end.
+---
 
-O projeto não possui integração com banco de dados, pois a proposta é trabalhar exclusivamente:
+## 📌 Sobre o Projeto
 
-Estruturação semântica com HTML
+Este projeto simula um site real de e-commerce de bicicletas, porém **sem integração com banco de dados**.
 
-Estilização moderna e responsiva com CSS
+O objetivo principal é praticar:
 
-Interações e comportamentos com JavaScript
+- Estruturação semântica com HTML5
+- Estilização moderna com CSS3
+- Responsividade
+- Interações com JavaScript
+- Organização e padronização de código
 
-A ideia principal é simular um site real de e-commerce, priorizando design, organização de código e boas práticas de front-end.
+---
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-HTML5
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
-CSS3
+---
 
-JavaScript (ES6+)
+## 🎯 Objetivos de Aprendizado
 
-🎯 Objetivos do Projeto
+- Aplicar conceitos fundamentais de HTML e CSS
+- Trabalhar com Flexbox e Grid Layout
+- Desenvolver layout responsivo
+- Manipular elementos do DOM com JavaScript
+- Organizar arquivos e estrutura de projeto
 
-Aplicar conceitos fundamentais de HTML e CSS
+---
 
-Trabalhar com layout responsivo
+## 💻 Funcionalidades
 
-Organizar o código de forma clara e escalável
-
-Simular um ambiente real de desenvolvimento front-end
-
-Criar um projeto visualmente profissional para portfólio
-
-💻 Funcionalidades
-
-Página inicial com apresentação da marca
-
-Sessão de produtos (bicicletas)
-
-Layout responsivo para diferentes dispositivos
-
-Efeitos visuais e interações com JavaScript
-
-Estrutura organizada em pastas
-
-
+- Página inicial institucional
+- Sessão de apresentação de produtos
+- Layout responsivo para diferentes dispositivos
+- Efeitos visuais e interações com JavaScript
+- Estrutura organizada em pastas
