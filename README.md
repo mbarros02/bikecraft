@@ -1,8 +1,8 @@
-# 🚲 Bikecraft
+# 🚲 Bikcraft
 
 Projeto desenvolvido como conclusão do curso de **HTML e CSS para Iniciantes**.
 
-O **Bikecraft** é um site fictício de venda de bicicletas criado com foco total no desenvolvimento **Front-End**, aplicando boas práticas de estruturação, estilização e interatividade.
+O **Bikcraft** é um site fictício de venda de bicicletas criado com foco total no desenvolvimento **Front-End**, aplicando boas práticas de estruturação, estilização e interatividade.
 
 ---
 
