@@ -81,6 +81,10 @@ img {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0px 40px;
+  max-width: 1200px;
+  padding: 0 20px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .introducao-conteudo {
@@ -94,11 +98,31 @@ img {
   line-height: 1.125;
 }
 
+.introducao h1 span {
+  color: #e4a30b;
+  border-radius: 30px;
+}
+
 .introducao p {
   font-size: 24px;
-  margin-bottom: 20px;
+  margin-bottom: 32px;
   line-height: 1.5;
   color: #b2b2b2;
+}
+
+.introducao a {
+  text-transform: uppercase;
+  font-size: 16px;
+  line-height: 1.5px;
+  color: #000000;
+  background-color: #e4a30b;
+  padding: 16px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.introducao a:hover {
+  background-color: #ffbb00;
 }
 
 @media (max-width: 800px) {
